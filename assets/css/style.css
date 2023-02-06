@@ -22,7 +22,7 @@ h6 {
   color: #1e1e1e;
 }
 
-.skills{
+.skills {
   height: 170px;
 }
 
@@ -959,6 +959,8 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  height: 400px;
+
 }
 
 .work-box:hover img {
